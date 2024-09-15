@@ -1,0 +1,1 @@
+1. after a TCP connection is established and data is sent between the peers, sending FIN package with the correct sequence number. 
